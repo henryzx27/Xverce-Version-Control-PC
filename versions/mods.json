@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "files": [
+    {
+      "name": "trp_hud.txd",
+      "path": "models/txd/trp_hud.txd",
+      "sha256": "a1b2c3d4e5f678901234567890123456789012345678901234567890123456",
+      "size": 2048576,
+      "url": "https://github.com/henryzx27/Xverce-Version-Control-PC/raw/main/mods/1.0/trp_hud.txd"
+    },
+    {
+      "name": "trp_phone.txd",
+      "path": "models/txd/trp_phone.txd",
+      "sha256": "b2c3d4e5f678901234567890123456789012345678901234567890123456a1",
+      "size": 1048576,
+      "url": "https://github.com/henryzx27/Xverce-Version-Control-PC/raw/main/mods/1.0/trp_phone.txd"
+    },
+    {
+      "name": "trp_radio.txd",
+      "path": "models/txd/trp_radio.txd",
+      "sha256": "c3d4e5f678901234567890123456789012345678901234567890123456a1b2",
+      "size": 1572864,
+      "url": "https://github.com/henryzx27/Xverce-Version-Control-PC/raw/main/mods/1.0/trp_radio.txd"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.0",
+  "versions": {
+    "1.0": {
+      "release_date": "2024-01-01",
+      "download_url": "https://raw.githubusercontent.com/henryzx27/Xverce-Version-Control-PC/main/versions/mods.json",
+      "changelog": "Initial release with HUD, Phone, and Radio textures"
+    }
+  }
+}
