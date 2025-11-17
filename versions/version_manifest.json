@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.1",
+  "latest_version": "1.2",
   "versions": {
     "1.0": {
       "release_date": "2024-01-01",
@@ -10,6 +10,12 @@
       "release_date": "2024-01-15",
       "download_url": "https://drive.google.com/uc?export=download&id=1QNHILxCqjNjiAuNmqQHRQ7tFdl675Bb7",
       "changelog": "Added New GUI"
+    },
+    "1.2": {
+      "release_date": "2024-01-15",
+      "download_url": "https://drive.google.com/uc?export=download&id=1lMnuIoegjr3Tx-qWbPc6No8ea8R1AWYh",
+      "changelog": "Updated TXD , server logo txd , annoumcent , half mdc"
     }
   }
 }
+
